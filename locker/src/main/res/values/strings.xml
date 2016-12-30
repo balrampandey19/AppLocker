@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AppLock</string>
+    <string name="manage_passcode">Manage Pin</string>
+    <string name="enter_passcode">Enter Pin</string>
+    <string name="enter_old_passcode">Enter old pin</string>
+    <string name="reenter_passcode">Re-enter pin</string>
+    <string name="change_passcode">Change pin</string>
+    <string name="setup_passcode">Setup Pin</string>
+    <string name="passcode_wrong">Wrong pin, please try again.</string>
+    <string name="disable_passcode">Disable pin</string>
+    <string name="enable_passcode">Enable pin</string>
+
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/activity_pattern_lock"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.balram.locker.main.PatternLockActivity">
+<com.balram.locker.view.PatternLockView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    app:nodeSrc="@drawable/lock_9_view_node_normal"
+    app:nodeOnSrc="@drawable/lock_9_view_node_highlighted"
+    app:lineColor="#ff006699"
+    app:lineWidth="8dp"
+    ></com.balram.locker.view.PatternLockView>
+</LinearLayout>

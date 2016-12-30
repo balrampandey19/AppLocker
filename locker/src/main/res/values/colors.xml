@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="light_gray">#FFE5E5E5</color>
+    <color name="gray">#FFCCCCCC</color>
+    <color name="black">#FF000000</color>
+    <color name="light_blue">#FF78c8e6</color>
+    <color name="primary">#ef5451</color>
+    <color name="primary_dark">#c22115</color>
+    <color name="accent">#c22115</color>
+    <color name="button_color">@color/primary_dark</color>
+
+
+    <!--material color-->
+
+    <color name="material_green_500">#4CAF50</color>
+    <color name="light_grey_google">#E3ECF5</color>
+
+    <color name="material_red_500">#f44336</color>
+    <color name="material_red_400">#ef5350</color>
+    <color name="material_red_300">#e57373</color>
+    <color name="material_red_200">#EF9A9A</color>
+    <color name="material_red_100">#FFCDD2</color>
+
+    <color name="redcarpet_chat_red">#ffdfdf</color>
+
+    <color name="grey_90">#414042</color>
+    <color name="grey_80">#58595B</color>
+    <color name="grey_70">#6D6E71</color>
+    <color name="grey_60">#808285</color>
+    <color name="grey_50">#939598</color>
+    <color name="grey_40">#A7A9AC</color>
+    <color name="grey_30">#BCBEC0</color>
+    <color name="grey_20">#D1D3D4</color>
+    <color name="grey_10">#dadcdd</color>
+    <color name="grey_5">#eceeef</color>
+    <color name="grey_200">#eeeeee</color>
+
+    <color name="colorPrimary">#FFEF5451</color>
+    <color name="colorPrimaryDark">#FFEF4438</color>
+    <color name="colorAccent">#FF00E5FF</color>
+    <color name="colorControlNormal">#FF78909C</color>
+    <color name="colorControlActivated">#F44336</color>
+    <color name="colorSwitchThumbNormal">#FF78909C</color>
+
+    <color name="colorPrimaryQuarter">#3303A9F4</color>
+    <color name="colorPrimaryHalf">@color/blue_accent_700</color>
+    <color name="colorControlNormalHalf">#9078909C</color>
+    <color name="colorControlActivatedHalf">#9003A9F4</color>
+    <color name="colorAccentQuarter">#3300E5FF</color>
+    <color name="colorAccentHalf">#9000E5FF</color>
+
+    <!--<color name="text_color">#ff545454</color>-->
+
+    <color name="blue_accent_700">#2962ff</color>
+
+    <color name="white_opaque">#FFFFFFFF</color>
+    <color name="text_color_light">#aa545454</color>
+    <color name="fb_color">#3B5998</color>
+    <color name="light_blue_color">#ff989ce8</color>
+    <color name="rc_card_highlight_blue">#ff2980b9</color>
+    <color name="rc_card_gray">#ff303030</color>
+    <color name="rc_card_gray_light">#fff0f0f0</color>
+    <color name="rc_card_border">#ff909090</color>
+    <color name="bg_color">#fff3f3f3</color>
+    <color name="bg_color_darker">#ffd1d1d1</color>
+    <color name="white_translucent">#EEFFFFFF</color>
+    <color name="white_medium_translucent">#AAFFFFFF</color>
+    <color name="white_more_translucent">#44FFFFFF</color>
+    <color name="black_more_translucent">#44000000</color>
+    <color name="accent_primary">#ffbbbbbb</color>
+    <color name="accent_secondary">#ff7e7979</color>
+    <color name="redcarpet_splash">#fff40313</color>
+    <color name="redcarpet_splash_translucent">#44f40313</color>
+    <color name="redcarpet_black_translucent">#99000000</color>
+
+    <color name="redcarpet_accent_trans">#ccb8020e</color>
+    <color name="redcarpet_orange">#faff3920</color>
+    <color name="redcarpet_orange_translucent">#ccff3920</color>
+    <color name="redcarpet_light_orange_translucent">#c7ff9f46</color>
+    <color name="redcarpet_green_translucent">#1ab021</color>
+    <!--<color name="redcarpet_primary">#FC2B1D</color> original, too bright -->
+    <color name="redcarpet_primary">#ffe52b1d</color>
+    <color name="redcarpet_red_new">#eb221d</color>
+    <!--<color name="redcarpet_primary">#E53935</color> material dull-->
+    <color name="redcarpet_primary_darker">#ffa72727</color>
+    <color name="redcarpet_accent">#ffc22115</color>
+    <color name="redcarpet_red_ish">#ffdcdc</color>
+    <color name="material_red_50">#ffebee</color>
+
+    <color name="disabled_gray">#ffe1e0df</color>
+    <color name="disabled_gray_dark">#ffc0bfbe</color>
+
+    <color name="translucent_black">#EE000000</color>
+    <color name="transparent_black">#AA000000</color>
+    <color name="list_background">#F5F5F5</color>
+    <color name="list_background_end">#FAFAFA</color>
+    <color name="list_background_pressed">#ffcc2534</color>
+    <color name="light_grey">#ccc</color>
+    <color name="grey">#777</color>
+    <color name="dark_grey">#333</color>
+
+    <item name="white" type="color">#FFFFFFFF</item>
+    <color name="input_gray">#ffec1511</color>
+    <color name="button_green">#ffec1511</color>
+    <color name="button_gray">#ffcb130b</color>
+    <color name="blue">#FF1784C7</color>
+    <color name="yellow_butter">#ffe0d700</color>
+    <color name="yellow_accent_700">#ffd600</color>
+    <color name="textColor">#ff545454</color>
+    <color name="grey_transparent">#70545454</color>
+    <color name="light_grey_transparent">#33aaaaaa</color>
+</resources>

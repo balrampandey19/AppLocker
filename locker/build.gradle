@@ -1,0 +1,58 @@
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion "25.0.0"
+
+    defaultConfig {
+        minSdkVersion 15
+        targetSdkVersion 25
+        versionCode 1
+        versionName "1.0"
+
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+ext {
+    bintrayRepo = 'maven'
+    bintrayName = 'AppLocker'
+
+    publishedGroupId = 'com.redcarpetup'
+    libraryName = 'AppLocker'
+    artifact = 'locker'
+
+    libraryDescription ='Android Library that provides pin lock to your app'
+
+    siteUrl = 'https://redcarpetup.github.io/AppLocker/'
+    gitUrl = 'https://redcarpetup.github.io/AppLocker.git'
+
+    libraryVersion = '1.0.0'
+
+    developerId = 'balrampandey19'
+    developerName = 'Balram Pandey'
+    developerEmail = 'balrampandey19@gamil.com'
+
+    licenseName = 'The Apache Software License, Version 2.0'
+    licenseUrl = 'http://www.apache.org/licenses/LICENSE-2.0.txt'
+    allLicenses = ["Apache-2.0"]
+
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    })
+    compile 'com.android.support:appcompat-v7:25.0.1'
+    testCompile 'junit:junit:4.12'
+    compile 'com.android.support:design:23.3.0'
+}
+apply from: 'https://raw.githubusercontent.com/brightec/JCenter/master/installv1.gradle'
+apply from: 'https://raw.githubusercontent.com/brightec/JCenter/master/bintrayv1.gradle'

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/redcarpet/Documents/Projects/AppLocker/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5d1ec6dddbbb2de3a72573e405de014172661978">
+        <dex dex="/home/redcarpet/Documents/Projects/AppLocker/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_02f73b99f936c630cc5476314eb629a370e08b68/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/redcarpet/Documents/Projects/AppLocker/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/home/redcarpet/Documents/Projects/AppLocker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_dc8c94499dcf1333150062256ba8868eb74284bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/redcarpet/Documents/Projects/AppLocker/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/home/redcarpet/Documents/Projects/AppLocker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_3201c84bdebb747d7d517b458aab9a3d2c065b3d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/redcarpet/Documents/Projects/AppLocker/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/redcarpet/Documents/Projects/AppLocker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_74e54c4b7a91ea2938833b7d4a4e3764cb8a51c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/redcarpet/Documents/Projects/AppLocker/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/home/redcarpet/Documents/Projects/AppLocker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_2a548c2adb33bae91b3430e06166330718e91353/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/redcarpet/Documents/Projects/AppLocker/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/home/redcarpet/Documents/Projects/AppLocker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.3.0_6073fca3fe295d49cf77eee73e19e664366aed80/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/redcarpet/Documents/Projects/AppLocker/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/home/redcarpet/Documents/Projects/AppLocker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_ea5e3b68a3874ed049544d4e4f55b2112fe5ce44/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/redcarpet/Documents/Projects/AppLocker/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/home/redcarpet/Documents/Projects/AppLocker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_84b4106cb165cb281f3dc749c7e808a06aa4f23a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/redcarpet/Documents/Projects/AppLocker/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/redcarpet/Documents/Projects/AppLocker/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_c24eebd48f74013d61c9fb732d2f36a95d037333/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/redcarpet/Documents/Projects/AppLocker/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/home/redcarpet/Documents/Projects/AppLocker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_c4ca9e356777152f5102a5df410e0fe4b252fa28/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/redcarpet/Documents/Projects/AppLocker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/home/redcarpet/Documents/Projects/AppLocker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_376f48bc2646982b24f70693a1eb86e9866c5fa9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/redcarpet/Documents/Projects/AppLocker/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a9cc601c795478b8c99b7af7822f190aee03d0b">
+        <dex dex="/home/redcarpet/Documents/Projects/AppLocker/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_8884330a52d23f57eb74f3b1528e2b8974cdef1b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/redcarpet/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/home/redcarpet/Documents/Projects/AppLocker/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_20c8f235966446ab62fd4a181546bfe31fae3bed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/redcarpet/Documents/Projects/AppLocker/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/home/redcarpet/Documents/Projects/AppLocker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_c02837bd7e7c21d78bc941942a5550e7376fc9e4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/redcarpet/Documents/Projects/AppLocker/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/home/redcarpet/Documents/Projects/AppLocker/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_090798a08defe4ede69468c679b4b92366348cfc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/redcarpet/Documents/Projects/AppLocker/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/home/redcarpet/Documents/Projects/AppLocker/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_8fac3a134515176bc0dd185ffd7b73c9fc8fc0b7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/redcarpet/Documents/Projects/AppLocker/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/home/redcarpet/Documents/Projects/AppLocker/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_cd30f91d96494c01f3908ad550d1576c42d43c1b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/redcarpet/Documents/Projects/AppLocker/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/home/redcarpet/Documents/Projects/AppLocker/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_8e6d7058e6aa28ea2fe713f85da125543a21431e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/redcarpet/Documents/Projects/AppLocker/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="/home/redcarpet/Documents/Projects/AppLocker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.3.0_2b087fbcfc372fcb6df5cd6d3d3e8cbfeb3b9ae2/classes.dex" />
+    </item>
+
+</items>
