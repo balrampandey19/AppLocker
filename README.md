@@ -19,7 +19,6 @@ Once enabled a four-digit passcode needs to be entered any time your mobile app 
  AppLocker.getInstance().enableAppLock(this);
 ```
 
-
 #### Extend LockActivity in all app activity as base activity.
 
 ```
@@ -33,6 +32,13 @@ Once enabled a four-digit passcode needs to be entered any time your mobile app 
  
  }
 ```
+#### Proguard.
+
+```
+ -dontwarn com.balram.locker.**
+```
+
+
 # Download
 
 #### The Gradle dependency is available via jCenter. jCenter is the default Maven repository used by Android Studio.
