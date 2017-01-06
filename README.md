@@ -47,7 +47,7 @@ Once enabled a four-digit passcode needs to be entered any time your mobile app 
 ```
 dependencies {
 
-compile 'com.redcarpet.locker:1.0.0'
+compile 'com.balrampandey.locker:1.0.0'
 
 }
 
