@@ -41,17 +41,22 @@ Once enabled a four-digit passcode needs to be entered any time your mobile app 
 
 # Download
 
-#### The Gradle dependency is available via jCenter. jCenter is the default Maven repository used by Android Studio.
-
-
-```
-dependencies {
-
-compile 'com.balrampandey.locker:1.0.0'
-
+#### Add it to your build.gradle with:
+```gradle
+allprojects {
+    repositories {
+        maven { url "https://jitpack.io" }
+    }
 }
-
 ```
+and:
+
+```gradle
+dependencies {
+    compile 'com.github.balrampandey19:AppLocaker:1.0.1'
+}
+```
+
 
 # License
 
