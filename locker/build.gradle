@@ -1,4 +1,6 @@
 apply plugin: 'com.android.library'
+apply plugin: 'com.github.dcendents.android-maven'
+group='com.github.balrampandey19'
 
 android {
     compileSdkVersion 25
@@ -20,30 +22,7 @@ android {
         }
     }
 }
-ext {
-    bintrayRepo = 'maven'
-    bintrayName = 'AppLocker'
 
-    publishedGroupId = 'com.redcarpetup'
-    libraryName = 'AppLocker'
-    artifact = 'locker'
-
-    libraryDescription ='Android Library that provides pin lock to your app'
-
-    siteUrl = 'https://redcarpetup.github.io/AppLocker/'
-    gitUrl = 'https://redcarpetup.github.io/AppLocker.git'
-
-    libraryVersion = '1.0.0'
-
-    developerId = 'balrampandey19'
-    developerName = 'Balram Pandey'
-    developerEmail = 'balrampandey19@gamil.com'
-
-    licenseName = 'The Apache Software License, Version 2.0'
-    licenseUrl = 'http://www.apache.org/licenses/LICENSE-2.0.txt'
-    allLicenses = ["Apache-2.0"]
-
-}
 
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
@@ -54,5 +33,3 @@ dependencies {
     testCompile 'junit:junit:4.12'
     compile 'com.android.support:design:23.3.0'
 }
-apply from: 'https://raw.githubusercontent.com/brightec/JCenter/master/installv1.gradle'
-apply from: 'https://raw.githubusercontent.com/brightec/JCenter/master/bintrayv1.gradle'
