@@ -2,7 +2,7 @@
 
 <img align="center" src='https://raw.githubusercontent.com/balrampandey19/AppLocker/master/Screen/icon.png' width='200' height='200'/>
 
-AppLocker is a library for protect app with four digit pin.
+App is a library for protect app with four digit pin.
 
 This library allows you to implement a pin lock mechanism in your app easily.
 
