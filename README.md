@@ -1,15 +1,15 @@
 # App lock library for Android
 
-<img align="center" src='https://raw.githubusercontent.com/RedCarpetUp/AppLocker/master/Screen/icon.png' width='200' height='200'/>
+<img align="center" src='https://raw.githubusercontent.com/balrampandey19/AppLocker/master/Screen/icon.png' width='200' height='200'/>
 
-AppLocker is a library for protect app with four digit pin.
+App is a library for protect app with four digit pin.
 
 This library allows you to implement a pin lock mechanism in your app easily.
 
 Once enabled a four-digit passcode needs to be entered any time your mobile app is launched. This way your app is safe even if your smartphone or tablet falls into the wrong hands.
 
 
-<img align="center" src='https://raw.githubusercontent.com/RedCarpetUp/AppLocker/master/Screen/screen.png' width='300' height='550'/>
+<img align="center" src='https://raw.githubusercontent.com/balrampandey19/AppLocker/master/Screen/screen.png' width='300' height='550'/>
 
 # Usage
 
@@ -18,7 +18,6 @@ Once enabled a four-digit passcode needs to be entered any time your mobile app 
 ```
  AppLocker.getInstance().enableAppLock(this);
 ```
-
 
 #### Extend LockActivity in all app activity as base activity.
 
@@ -33,6 +32,13 @@ Once enabled a four-digit passcode needs to be entered any time your mobile app 
  
  }
 ```
+#### Proguard
+
+```
+ -dontwarn com.balram.locker.**
+```
+
+
 # Download
 
 #### The Gradle dependency is available via jCenter. jCenter is the default Maven repository used by Android Studio.
@@ -41,7 +47,7 @@ Once enabled a four-digit passcode needs to be entered any time your mobile app 
 ```
 dependencies {
 
-compile 'com.redcarpet.locker:1.0.0'
+compile 'com.balrampandey.locker:1.0.0'
 
 }
 
@@ -50,7 +56,7 @@ compile 'com.redcarpet.locker:1.0.0'
 # License
 
 ```
-   Copyright 2016 Redcarpet
+      Copyright 2016 Balram Pandey
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
