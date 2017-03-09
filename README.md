@@ -56,7 +56,7 @@ and:
 
 ```gradle
 dependencies {
-    compile 'com.github.balrampandey19:AppLocaker:1.0.1'
+   compile 'com.github.balrampandey19:AppLocker:1.0.1'
 }
 ```
 
