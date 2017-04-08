@@ -48,7 +48,7 @@ Once enabled a four-digit passcode needs to be entered any time your mobile app 
 ```
 
 
-# Download
+### Download
 
 #### Add it to your build.gradle with:
 ```gradle
