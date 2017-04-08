@@ -18,9 +18,11 @@ Once enabled a four-digit passcode needs to be entered any time your mobile app 
 
 
 #### Initilize app loger in App Application class.
+
 ```
  AppLocker.getInstance().enableAppLock(this);
 ```
+
 
 #### Extend LockActivity in all app activity as base activity.
 
