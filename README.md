@@ -26,6 +26,8 @@ Once enabled a four-digit passcode needs to be entered any time your mobile app 
 
 #### Extend LockActivity in all app activity as base activity.
 
+
+
 ```
  public class MainActivity extends LockActivity {
  
@@ -37,6 +39,8 @@ Once enabled a four-digit passcode needs to be entered any time your mobile app 
  
  }
 ```
+
+
 #### Proguard
 
 ```
